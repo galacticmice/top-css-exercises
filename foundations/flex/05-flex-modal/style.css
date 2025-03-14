@@ -22,6 +22,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 12px;
   display: flex;
+  gap: 12px;
 }
 
 .icon {
@@ -81,9 +82,6 @@ button.cancel {
   margin-bottom: 12px;
 }
 
-.non-icon {
-  margin: 12px;
-}
 
 .text {
   margin-bottom: 12px;
